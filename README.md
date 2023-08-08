@@ -1,10 +1,7 @@
 - 👋 Hi, 一个码农
-- 👀 I’m 仅有的余晖二次封装一些轮子
+- 👀 I’m 造一些关于vue3项目的轮子
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-vue3plugin/vue3plugin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> 主要是懒惰，有一些代码来回来来的写都是一样的代码，主力前端框架是vue3，将一些个人常用的东西封装出来，有用没用自己掂量，这里只做记录。
